@@ -1,0 +1,5 @@
+#!/bin/sh
+#run with sh -e commands.txt
+python music_transcription.py
+find ~/Documents/GitHub/audio_to_midi_melodia -name "*.mid" | while read f ; do
+/Applications/MuseScore\ 3.app/Contents/MacOS/mscore $f; done
