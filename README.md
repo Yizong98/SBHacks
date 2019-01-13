@@ -31,7 +31,7 @@ Necessary Packages:
 
 Usage Manual
 -------------
-* Open the index.html
+* Open the index.html(public folder in front end folder)
 * Upload your mp3, click on upload and wait for about 10 seconds. 
 * Click Convert and wait about 10 seconds. 
 * Now click on the green button and enjoy the sheet music!
