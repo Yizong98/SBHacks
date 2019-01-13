@@ -25,11 +25,9 @@ Necessary Packages:
 
 [Jupyter Notebook](http://jupyter.org/install)
 
-[HTML5]
+[Reactjs] (https://reactjs.org/)
 
-[Reactjs]
-
-[JavaScript]
+[JavaScript] (https://www.javascript.com/)
 
 Usage Manual
 -------------
